@@ -25,3 +25,4 @@ To contribute or modify imSPAM:
 ## License
 
 imSPAM is open-sourced under the MIT license.
+![image](https://github.com/DARKSTONE-LABS/imSPAM/assets/141037846/4954cd24-34cd-4443-aecf-491a421775a0)
